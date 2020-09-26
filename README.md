@@ -1,4 +1,4 @@
-![IMG_0426](https://user-images.githubusercontent.com/48949523/94336976-29c2ac00-0011-11eb-80be-adeabf6220ba.png)
+![IMG_0426](https://user-images.githubusercontent.com/48949523/94337041-b53c3d00-0011-11eb-9975-3ede5d40aaba.png)
 
 - 💻 Working at **Api Development**
 
