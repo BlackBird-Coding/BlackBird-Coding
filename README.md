@@ -1,6 +1,6 @@
 ![IMG_0426](https://user-images.githubusercontent.com/48949523/94337041-b53c3d00-0011-11eb-9975-3ede5d40aaba.png)
 
-- 💻 Working at **Api Development**
+- 💻 Working at **API Development**
 
 - ✏️ I'm a Web Developer
 
