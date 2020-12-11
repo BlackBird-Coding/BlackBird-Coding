@@ -13,4 +13,4 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=blackbird-coding&show_icons=true&theme=dark&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackbird-coding&theme=dark&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bla_ckb&theme=dark&layout=compact)
