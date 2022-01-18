@@ -9,7 +9,6 @@
 - I'm 16 years old
 
   ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbird-coding&theme=dark&layout=compact)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=blackbird-coding&show_icons=true&theme=dark&count_private=true)
 
