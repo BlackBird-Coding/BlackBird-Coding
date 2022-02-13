@@ -12,6 +12,6 @@
 
    ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bla_ckBtheme=dark&layout=compact)
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bla_ckB&theme=dark&layout=compact)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBird-Coding&theme=dark&layout=compact)
 
-   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bla_ckB&show_icons=true&theme=dark)
+   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBird-Coding&show_icons=true&theme=dark)
