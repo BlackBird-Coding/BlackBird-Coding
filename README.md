@@ -10,6 +10,8 @@
 
   ### Github Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=blackbird-coding&show_icons=true&theme=dark&count_private=true)
+   ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlackBird-Coding&theme=dark&layout=compact)
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBird-Coding&theme=dark&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bla_ckB&theme=dark&layout=compact)
+   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBird-Coding&show_icons=true&theme=dark)
