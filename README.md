@@ -10,7 +10,7 @@
 
   ### Github Stats
 
-   ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Thanadol Daroonsri&theme=dark&layout=compact)
+   ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlackBird-Coding&theme=dark&layout=compact)
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBird-Coding&theme=dark&layout=compact)
 
