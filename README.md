@@ -15,3 +15,4 @@
    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBird-Coding&show_icons=true&theme=dark)
    
    [![wakatime](https://wakatime.com/badge/user/9795a95e-732c-4101-92ab-b09573aadc5f.svg)](https://wakatime.com/@9795a95e-732c-4101-92ab-b09573aadc5f)
+   [![wakatime](https://wakatime.com/badge/user/9795a95e-732c-4101-92ab-b09573aadc5f/project/eef34b33-3724-49b1-a476-bfde7197f265.svg)](https://wakatime.com/badge/user/9795a95e-732c-4101-92ab-b09573aadc5f/project/eef34b33-3724-49b1-a476-bfde7197f265)
