@@ -8,10 +8,12 @@
 
 - I'm 17 years old
 
-  ### Github Stats
 
-   ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=9795a95e-732c-4101-92ab-b09573aadc5f&theme=dark&layout=compact)
+<div align="center">
+  <h1>Github Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=9795a95e-732c-4101-92ab-b09573aadc5f&theme=dark&layout=compact" height="150" alt="stats graph"  />
+</div>
 
-   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBird-Coding&show_icons=true&theme=dark)
+###
    
    [![wakatime](https://wakatime.com/badge/user/9795a95e-732c-4101-92ab-b09573aadc5f.svg)](https://wakatime.com/@9795a95e-732c-4101-92ab-b09573aadc5f)
