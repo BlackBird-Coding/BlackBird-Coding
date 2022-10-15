@@ -16,8 +16,8 @@
   <h1>Stats</h1>
     <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=BlackBird-Coding" height="150" alt="stats graph"  />
 </div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bla_ckB&theme=dark&layout=compact" height="500" alt="stats graph"  />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bla_ckB&theme=dark&layout=compact" height="400" alt="stats graph"  />
 </div>
 
 ###
