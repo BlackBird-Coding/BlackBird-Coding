@@ -2,7 +2,7 @@
 
 - 💻 Working as a CTO at [API Development]
 
-- ✏️ I'm a Web Developer
+- ✏️ I'm a Developer
 
 - ⚡ Fun fact **While Coding, Listening Music and developing useful code.**
 
