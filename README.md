@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **While Coding, Listening Music and developing useful code.**
 
-- I'm 17 years old
+- I'm 18 years old
 
  [![wakatime](https://wakatime.com/badge/user/9795a95e-732c-4101-92ab-b09573aadc5f.svg)](https://wakatime.com/@9795a95e-732c-4101-92ab-b09573aadc5f)
 
