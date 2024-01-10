@@ -1,6 +1,6 @@
-![IMG_0426](https://user-images.githubusercontent.com/48949523/94337041-b53c3d00-0011-11eb-9975-3ede5d40aaba.png)
+![Group 623](https://user-images.githubusercontent.com/48949523/236689032-d8d9c831-aa72-4b92-be23-53be6bca3761.png)
 
-- 💻 Working as a CTO at [API Development]
+- 💻 Working as a CTO at [OpenMirai]
 
 - ✏️ I'm a Developer
 
