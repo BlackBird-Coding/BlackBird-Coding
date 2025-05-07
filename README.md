@@ -1,6 +1,6 @@
 # Hello, I'm Thanadol Daroonsri 👋
 
-CTO at OpenMirai | Developer | AI & Cloud Enthusiast
+Former CTO at OpenMirai | AI Engineer at Deep Capital | AI & Cloud Enthusiast
 
 Passionate about implementing AI and cloud solutions in enterprise environments, with experience in developing practical applications through multiple tech competitions. Eager to contribute to corporate-scale projects while applying skills in AI, cloud, and web development to solve real business challenges.
 
