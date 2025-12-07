@@ -9,7 +9,7 @@ Passionate about implementing AI and cloud solutions in enterprise environments,
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-mu-five-95.vercel.app/api/wakatime?username=Bla_ckB&theme=dark&layout=compact&langs_count=18" height="400" alt="stats lang"  />
+<img src="https://github-readme-stats-mu-five-95.vercel.app/api/wakatime?username=Bla_ckB&theme=light&layout=compact&langs_count=18" height="400" alt="stats lang"  />
 </div>
 
 ## 🛠 Tech Stack
